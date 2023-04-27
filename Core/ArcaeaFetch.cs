@@ -163,7 +163,7 @@ internal static class ArcaeaFetch
 
     internal static void RegisterTask()
     {
-        if (BackgroundService.TimerCount % 144 != 0) return;
+        return;
 
         try
         {
