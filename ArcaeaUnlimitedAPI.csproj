@@ -18,8 +18,4 @@
         <PackageReference Include="sqlite-net-pcl" Version="1.7.335" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Compile Remove="Core\ArcaeaHash.cs" />
-    </ItemGroup>
-
 </Project>
